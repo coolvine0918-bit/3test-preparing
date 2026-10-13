@@ -1,0 +1,8 @@
+{
+  "name": "지방 자치와 시민 참여 - AI 스마트 학습지",
+  "description": "단계별 힌트, 5등급 자동 채점, 오답 노트 및 교사용 구글 시트 실시간 전송을 지원하는 자기주도 학습 시스템",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
